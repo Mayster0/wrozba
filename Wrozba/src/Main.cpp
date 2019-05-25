@@ -1,5 +1,5 @@
 #include <iostream>
-#include<cstdlib>
+#include <cstdlib>
 int main()
 {
 	std::string przejscie;
